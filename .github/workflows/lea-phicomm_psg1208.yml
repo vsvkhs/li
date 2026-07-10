@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: lede-phicomm_psg1208
+name: lea-phicomm_psg1208
 
 on:
   repository_dispatch:
